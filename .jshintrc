@@ -1,0 +1,17 @@
+{
+    "asi": false,
+    "browser": true,
+    "eqeqeq": true,
+    "eqnull": true,
+    "expr": true,
+    "jquery": true,
+    "latedef": "nofunc",
+    "laxbreak": true,
+    "nonbsp": true,
+    "strict": true,
+    "undef": true,
+    "unused": true,
+    "predef": [ "Modernizr", "abt", "ClientAppSettings", "moment", "Ractive", "Bloodhound", "docCookies", "bootbox", "createjs" ],
+    "validthis": true,
+    "boss": true
+}
