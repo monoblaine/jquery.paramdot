@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/monoblaine/jquery.paramdot.git"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-jscs": "^3.0.2",
