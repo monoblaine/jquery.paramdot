@@ -1,5 +1,5 @@
 {
-  "name": "jquery-paramdot",
+  "name": "@abt/jquery-paramdot",
   "description": "jQuery.param metodunun alternatifidir. Nesneleri serialize ederken `ahmet[fieldAdi]` yazmak yerine `ahmet.fieldAdi` yazar.",
   "license": "MIT",
   "repository": {
